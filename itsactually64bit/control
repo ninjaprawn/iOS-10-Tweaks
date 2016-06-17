@@ -1,0 +1,9 @@
+Package: com.ninjaprawn.itsactually64bit
+Name: ItsActually64bit
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Ninjaprawn
+Author: Ninjaprawn
+Section: Tweaks
